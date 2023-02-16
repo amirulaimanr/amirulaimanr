@@ -31,5 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirulaimanr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amirulaimanr" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirulaimanr&theme=dark" alt="amirulaimanr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirulaimanr&show_icons=true&theme=tokyonight&locale=en" alt="amirulaimanr" /></p>
