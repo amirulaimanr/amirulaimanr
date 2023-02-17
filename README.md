@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Web Projects**
 
-- 👨🏻‍💻 I'm experienced in **Web Development, Android Application Development, Machine Learning, Embedded System, IoT**
+- 👨🏻‍💻 I'm experienced in **Web Development, Android Application Development, AI Machine Learning, Data Analysis, Embedded System, IoT**
 
 - 💬 Ask me about **Html, Css, Java, Machine Learning**
 
