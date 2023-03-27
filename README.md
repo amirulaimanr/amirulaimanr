@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wyrcl_" target="blank"><img src="https://img.shields.io/twitter/follow/wyrcl_?logo=twitter&style=for-the-badge" alt="wyrcl_" /></a> </p>
 
-- 🔭 I’m currently working on **eco-travel-tourism project for my training program.**
+- 🔭 I’m currently working on **wholesale-portal project for my training program.**
 
 - 🌱 I’m currently learning **Java and JavaScript frameworks.**
 
