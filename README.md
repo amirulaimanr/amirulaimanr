@@ -1,6 +1,6 @@
 ![Header](./github-header-image3.png)
 <h1 align="center">Hi 👋, I'm AMIRUL</h1>
-<h3 align="center">Passionate programmer striving to create meaningful digital experiences for a better world.</h3>
+<h3 align="center">Passionate software engineer striving to create meaningful digital experiences for a better world.</h3>
 <img align="right" alt="Coding" width="400" src="https://thestandard.org.nz/wp-content/uploads/2014/08/computer-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirulaimanr&label=Profile%20views&color=0e75b6&style=flat" alt="amirulaimanr" /> </p>
