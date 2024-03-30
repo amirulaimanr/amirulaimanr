@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Web Projects**
 
-- 👨🏻‍💻 I'm experienced in **Web Development, Android Application Development, AI Machine Learning, Data Analysis, Embedded System and IoT**
+- 👨🏻‍💻 I'm experienced in **Web Development, Android Application Development, AI Machine Learning, Data Analysis, Embedded System , Cloud development and IoT**
 
 - 📫 How to reach me **amirulaimanrohaimi@gmail.com**
 
