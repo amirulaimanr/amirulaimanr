@@ -1,4 +1,4 @@
-![Header](./github-header-image8.png)
+<!-- ![Header](./github-header-image8.png) -->
 <h1 align="center">Hi 👋, I'm AMIRUL</h1>
 <h3 align="center">Passionate software engineer striving to create meaningful digital experiences for a better world.</h3>
 <img align="right" alt="Coding" width="400" src="https://thestandard.org.nz/wp-content/uploads/2014/08/computer-hacker.gif">
